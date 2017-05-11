@@ -1,7 +1,7 @@
 
 .about-the-author {
   background-color: #fefefe;
-  padding: 1rem;
+  padding: 10rem;
   border: 1px solid #cacaca;
 }
 
@@ -26,7 +26,7 @@
 
 .about-the-author .separator-left::after {
   position: relative;
-  width: 5rem;
+  width: 35rem;
   border-bottom: 0.125rem solid #1779ba;
   margin: 0.3rem auto 0;
   margin-left: 0;
