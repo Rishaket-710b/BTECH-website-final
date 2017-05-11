@@ -1,14 +1,14 @@
 
 .marketing-site-hero {
-  background: url("http://sumcplayschool.com/hp_wordpress/wp-content/uploads/2015/09/Parents1.png?1441309195004") top right no-repeat;
+  background: url("https://www.gannett-cdn.com/-mm-/a0e79b4abab105b929b7e0c9f86bee9ef03866e3/c=100-0-4900-3600&r=x404&c=534x401/local/-/media/2017/02/09/Livingston/B9326155247Z.1_20170209113149_000_GRVGJSEA5.23-0.jpg") top right no-repeat;
   height: 65vh;
   background-size: cover;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
 }
 
 @media screen and (min-width: 40em) {
