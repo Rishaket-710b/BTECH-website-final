@@ -1,0 +1,42 @@
+
+.marketing-site-hero {
+  background: url("https://echalk-slate-prod.s3.amazonaws.com/private/schools/85/resources/df6cf766-4e6a-4c6a-898d-2c92435a5cb7?AWSAccessKeyId=AKIAJSZKIBPXGFLSZTYQ&Expires=1806450824&response-content-disposition=attachment%3Bfilename%3D%22virtualbackpack%281%29.gif%22&response-content-type=image%2Fgif&Signature=VWF78BQI1TINoOkzXuN78PyyfPc%3D") top right no-repeat;
+  height: 65vh;
+  background-size: cover;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+@media screen and (min-width: 40em) {
+  .marketing-site-hero {
+    background-position: center center;
+  }
+}
+
+.marketing-site-hero-content {
+  max-width: 75rem;
+  margin: 0 auto;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.marketing-site-hero-content h1 {
+  font-size: 32px;
+}
+
+.marketing-site-hero-content .button.round {
+  border-radius: 5000px;
+  text-transform: uppercase;
+  font-size: 12px;
+  margin-bottom: 0;
+}
+
+@media screen and (min-width: 40em) {
+  .marketing-site-hero-content {
+    padding-left: 50%;
+  }
+}
