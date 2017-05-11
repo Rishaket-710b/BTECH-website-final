@@ -1,4 +1,6 @@
 
+
+
 .posts-panel {
   max-width: 75rem;
   margin-right: auto;
@@ -18,11 +20,11 @@
   display: table;
   content: ' ';
   -webkit-flex-basis: 0;
-  -ms-flex-preferred-size: 0;
-  flex-basis: 0;
+      -ms-flex-preferred-size: 0;
+          flex-basis: 0;
   -webkit-order: 1;
-  -ms-flex-order: 1;
-  order: 1;
+      -ms-flex-order: 1;
+          order: 1;
 }
 
 .posts-panel::after {
@@ -59,11 +61,11 @@
   display: table;
   content: ' ';
   -webkit-flex-basis: 0;
-  -ms-flex-preferred-size: 0;
-  flex-basis: 0;
+      -ms-flex-preferred-size: 0;
+          flex-basis: 0;
   -webkit-order: 1;
-  -ms-flex-order: 1;
-  order: 1;
+      -ms-flex-order: 1;
+          order: 1;
 }
 
 .posts-panel .panel-header::after {
@@ -110,11 +112,11 @@
   display: table;
   content: ' ';
   -webkit-flex-basis: 0;
-  -ms-flex-preferred-size: 0;
-  flex-basis: 0;
+      -ms-flex-preferred-size: 0;
+          flex-basis: 0;
   -webkit-order: 1;
-  -ms-flex-order: 1;
-  order: 1;
+      -ms-flex-order: 1;
+          order: 1;
 }
 
 .posts-panel .pinned-post::after, .posts-panel .posts-list::after {
@@ -144,11 +146,11 @@
   display: table;
   content: ' ';
   -webkit-flex-basis: 0;
-  -ms-flex-preferred-size: 0;
-  flex-basis: 0;
+      -ms-flex-preferred-size: 0;
+          flex-basis: 0;
   -webkit-order: 1;
-  -ms-flex-order: 1;
-  order: 1;
+      -ms-flex-order: 1;
+          order: 1;
 }
 
 .posts-panel .post-item::after {
@@ -248,11 +250,11 @@
   display: table;
   content: ' ';
   -webkit-flex-basis: 0;
-  -ms-flex-preferred-size: 0;
-  flex-basis: 0;
+      -ms-flex-preferred-size: 0;
+          flex-basis: 0;
   -webkit-order: 1;
-  -ms-flex-order: 1;
-  order: 1;
+      -ms-flex-order: 1;
+          order: 1;
 }
 
 .posts-panel .pinned-post .post-thumbnail::after {
@@ -294,11 +296,11 @@
   display: table;
   content: ' ';
   -webkit-flex-basis: 0;
-  -ms-flex-preferred-size: 0;
-  flex-basis: 0;
+      -ms-flex-preferred-size: 0;
+          flex-basis: 0;
   -webkit-order: 1;
-  -ms-flex-order: 1;
-  order: 1;
+      -ms-flex-order: 1;
+          order: 1;
 }
 
 .posts-panel .pinned-post .post-text::after {
@@ -372,11 +374,11 @@
     display: table;
     content: ' ';
     -webkit-flex-basis: 0;
-    -ms-flex-preferred-size: 0;
-    flex-basis: 0;
+        -ms-flex-preferred-size: 0;
+            flex-basis: 0;
     -webkit-order: 1;
-    -ms-flex-order: 1;
-    order: 1;
+        -ms-flex-order: 1;
+            order: 1;
   }
   .posts-panel.grid .pinned-post::after, .posts-panel.grid .posts-list::after {
     clear: both;
